@@ -1,6 +1,6 @@
 # frontend-salvus-test
 
-Deploy URL : 
+Deploy URL : https://frontend-salvus-test-production.up.railway.app/ 
 
 Credential :
 - Email : Kayden3@yahoo.com
